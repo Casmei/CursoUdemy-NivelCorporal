@@ -12,7 +12,7 @@
 
 ## 💻 Resultado do IMC
 ![image](https://user-images.githubusercontent.com/68354933/145982889-4d0541c6-6fce-440f-8b45-594499e1c64e.png)
-> Por final, quando os valores são inseridos corretamento, o programa nos retorna deu índice de massa corporal, e em qual categoria ele se encaixa.
+> Por final, quando os valores são inseridos corretamente, o programa nos retorna seu índice de massa corporal, e em qual categoria ele se encaixa.
 
 ### :construction: Ajustes e Melhorias
 - [ ] Adicionar um cálculo diferente para o sexo M e F
